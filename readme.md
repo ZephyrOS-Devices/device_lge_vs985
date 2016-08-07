@@ -1,4 +1,4 @@
-##This repo contains my device trees for vs985##
+##This repo contains my device trees for VS985##
 
 ##I don't mind if you use them, but talk to me first.##
 
